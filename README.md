@@ -1,8 +1,6 @@
 ## 👋 Hi, I'm Hunain Ashfaq
 
-## 👋 Hi, I'm Hunain Ashfaq [cite: 3]
-
-Full Stack Software Engineer** specializing in architecting scalable mobile solutions with **3+ years of experience**.
+**Full Stack Software Engineer** specializing in architecting scalable mobile solutions with **3+ years of experience**.
 I have a proven track record in **PropTech** and **Aviation**, delivering high performance systems that optimize workflows.
 
 ---
