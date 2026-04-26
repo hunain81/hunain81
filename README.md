@@ -1,7 +1,6 @@
 ## 👋 Hi, I'm Hunain Ashfaq
-
-I'm a passionate **Full Stack Developer** with over 3 years of experience building mobile using **React Native** , **Expo**, **Node.js** and **Express**.
 ---
+I'm a passionate **Full Stack Developer** with over 3 years of experience building mobile using **React Native** , **Expo**, **Node.js** and **Express**.
 
 * **🔭 Currently:** working on the architecture and development of enterprise and startup grade  **Cross Platform Apps**.
 * **⚡ Impact:** Reduced infrastructure overhead by 15% and increased operational efficiency by 35%.
